@@ -2,7 +2,6 @@
 <h3 align="center">Mid-Level Laravel Developer | Laravel • PHP • Vue.js • REST APIs</h3>
 
 <p align="center">
-<a href="https://github.com/emonislam-dev"><img src="https://img.shields.io/badge/GitHub-smemonislam6-181717?style=for-the-badge&logo=github"></a>
 <a href="https://www.linkedin.com/in/emonislam-dev"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
 <a href="https://leetcode.com/u/smemonislam6/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
