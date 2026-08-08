@@ -80,11 +80,9 @@ I focus on building clean, maintainable, scalable, and production-ready backend 
 
 - Laravel 13
 - Advanced Eloquent
-- REST API Development
 - Multi-Tenant SaaS
 - Database & Query Optimization
 - Application Performance
-- Authentication & Authorization
 - Docker
 - Redis
 - CI/CD
