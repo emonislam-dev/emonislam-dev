@@ -76,33 +76,6 @@ I focus on building clean, maintainable, scalable, and production-ready backend 
 
 ---
 
-## 🚀 Featured Project
-
-### Laravel 13 Eloquent Mastery
-
-A practical Laravel 13 learning repository focused on Eloquent ORM, database queries and production-oriented Laravel development.
-
-**Topics include:**
-
-- Database → SQL → ORM → Eloquent
-- Retrieving Data
-- Advanced Filtering
-- Ordering & Limiting
-- Pagination
-- Eloquent Query Patterns
-- Model vs Eloquent
-- Model vs Collection
-- `all()` vs `get()`
-- `first()` vs `find()`
-- `latest()` vs `orderBy()`
-- `paginate()` vs `cursorPaginate()`
-- `value()` vs `pluck()`
-- `exists()` vs `count()`
-
-🔗 [View Repository](https://github.com/emonislam-dev/laravel-eloquent-mastery)
-
----
-
 ## 🎯 Current Focus
 
 - Laravel 13
