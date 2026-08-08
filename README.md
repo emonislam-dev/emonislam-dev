@@ -4,23 +4,23 @@
 
 I'm a **PHP Laravel Developer** with **2+ years of professional experience** building and maintaining commercial SaaS applications and business-focused web platforms.
 
-I specialize in building clean, maintainable, scalable, and production-ready backend systems using **PHP, Laravel, REST APIs, MySQL, and PostgreSQL**.
+My primary focus is backend development with **PHP, Laravel, REST APIs, MySQL, PostgreSQL, authentication, authorization, RBAC, third-party API integration, and database optimization**.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💼 **2+ years of professional experience** in PHP & Laravel development
-- 🚀 Experienced in building and maintaining **commercial SaaS applications**
-- 🔗 Hands-on experience with **RESTful APIs & third-party API integration**
-- 🔐 Experience with **Authentication, Authorization & RBAC**
-- 🏗️ Experienced with **Laravel Service Pattern**
-- 🗄️ Strong focus on **database design & query optimization**
-- 💳 Experience with **payment gateway integration**
-- ⚡ Experience with **caching, queues & task scheduling**
-- 🎨 Practical experience with **Vue.js, JavaScript & Inertia.js**
-- 🛠️ Git-based development and Agile collaboration
-- 🔒 Most professional production projects are maintained in **private repositories**
+- 🚀 Building and maintaining **commercial SaaS applications**
+- 🔗 Developing **RESTful APIs and backend services**
+- 🔐 Authentication, Authorization & **Role-Based Access Control (RBAC)**
+- 🏗️ Laravel **Service Pattern** and maintainable application architecture
+- 🗄️ MySQL, PostgreSQL, Eloquent ORM & query optimization
+- 💳 Third-party API & payment gateway integration
+- ⚡ Caching, queues and task scheduling
+- 🎨 Vue.js, JavaScript, Inertia.js & Bootstrap
+- 🛠️ Git, GitHub, Postman & Composer
+- 🔒 Most professional production projects are maintained in private repositories
 
 ---
 
@@ -28,29 +28,55 @@ I specialize in building clean, maintainable, scalable, and production-ready bac
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+`PHP` `Laravel` `REST APIs` `Eloquent ORM`
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+`MySQL` `PostgreSQL` `SQL`
 
 ### Frontend
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+`Vue.js` `JavaScript` `Inertia.js` `Bootstrap` `Tailwind CSS`
 
-### Tools & Technologies
+### Architecture & Backend Practices
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+`Service Pattern` `MVC` `Authentication` `Authorization` `RBAC`
+
+### Integrations
+
+`Third-Party APIs` `Payment Gateways` `REST APIs`
+
+### Tools
+
+`Git` `GitHub` `Postman` `Composer`
+
+---
+
+## 🚀 Featured Project
+
+### Laravel 13 Eloquent Mastery
+
+A structured Laravel 13 learning repository focused on practical Eloquent ORM and database development.
+
+Topics include:
+
+- Database → SQL → ORM → Eloquent
+- Retrieving Data
+- Advanced Filtering
+- Ordering & Limiting
+- Pagination
+- Model vs Eloquent
+- Model vs Collection
+- `all()` vs `get()`
+- `first()` vs `find()`
+- `latest()` vs `orderBy()`
+- `paginate()` vs `cursorPaginate()`
+- `value()` vs `pluck()`
+- `exists()` vs `count()`
+- Production-oriented query patterns
+- Laravel best practices
+
+🔗 **[View Laravel Eloquent Mastery](https://github.com/emonislam-dev/laravel-eloquent-mastery)**
 
 ---
 
@@ -60,152 +86,82 @@ I specialize in building clean, maintainable, scalable, and production-ready bac
 
 **April 2024 – Present**
 
-I develop and maintain commercial SaaS applications using **PHP, Laravel, MySQL, Vue.js, JavaScript, Bootstrap, and Metronic**.
+Working on commercial SaaS applications using PHP, Laravel, MySQL, Vue.js, JavaScript and related technologies.
 
-Key responsibilities include:
+Key areas of work:
 
-- Developing scalable business modules using the **Laravel Service Pattern**
-- Building and maintaining **RESTful APIs**
-- Implementing **Authentication, Authorization & RBAC**
-- Integrating **third-party APIs and payment gateways**
+- Developing Laravel business modules
+- Building and maintaining RESTful APIs
+- Implementing authentication and RBAC
+- Integrating third-party APIs and payment gateways
 - Optimizing database queries and application performance
-- Working with **caching, queues and task scheduling**
-- Troubleshooting and resolving production issues
-- Collaborating with developers and QA teams using **Git and Agile practices**
+- Working with caching, queues and task scheduling
+- Troubleshooting production issues
+- Collaborating with developers and QA teams
+- Following Git-based development and Agile practices
 
----
-
-## 🚀 Featured Projects
-
-### 📚 Laravel 13 Eloquent Mastery
-
-A practical Laravel 13 learning repository focused on **Eloquent ORM, database queries, filtering, ordering, pagination, relationships, performance optimization, and production-oriented Laravel patterns**.
-
-🔗 [View Repository](https://github.com/emonislam-dev/laravel-eloquent-mastery)
-
----
-
-### 📢 KodePTC — AI-Powered Advertising Platform
-
-Commercial AI-powered advertising platform built with **PHP, Laravel, MySQL, JavaScript, Bootstrap, and Metronic**.
-
-Contributed to:
-
-- Business module development
-- Laravel Service Pattern
-- Authentication & RBAC
-- Payment gateway integration
-- Database query optimization
-- Production issue resolution
-
-> 🔒 Professional production code is maintained in private repositories.
-
----
-
-### 🎓 Time Smart — Banking Professional Learning Platform
-
-Commercial Learning Management System built with **PHP, Laravel, Vue.js, Inertia.js, and MySQL**.
-
-Contributed to:
-
-- Backend module development
-- Business logic implementation
-- Authentication & RBAC
-- Student learning management features
-- Database optimization
-- Production issue resolution
-
-> 🔒 Professional production code is maintained in private repositories.
-
----
-
-### 🏨 Hoteler Laravel
-
-Laravel-based hotel management application focused on business workflows and application development.
-
----
-
-### 🏦 Smart Bankers
-
-Banking and business management application developed with Laravel.
+> 🔒 Production source code is maintained in private repositories due to company confidentiality.
 
 ---
 
 ## 💡 Professional Highlights
 
-- 🏗️ Clean & Maintainable Architecture
-- 🔐 Authentication & Authorization
-- 👥 Role-Based Access Control (RBAC)
-- 🔗 RESTful API Development
-- 🔌 Third-Party API Integration
-- 💳 Payment Gateway Integration
-- 🗄️ Database Design & Query Optimization
-- ⚡ Application Performance Optimization
-- 📦 Laravel Service Pattern
-- 🔄 Queue & Task Scheduling
-- 💾 Caching
+- Clean & Maintainable Code
+- Laravel Service Pattern
+- RESTful API Development
+- Authentication & Authorization
+- Role-Based Access Control
+- Eloquent ORM
+- Database & Query Optimization
+- Third-Party API Integration
+- Payment Gateway Integration
+- Application Performance Optimization
+- Caching
+- Queues & Task Scheduling
 
 ---
 
-## 📚 Laravel Eloquent Mastery
+## 📚 Learning & Continuous Improvement
 
-I'm building a structured learning repository focused on mastering Laravel Eloquent through practical examples and production-oriented query patterns.
+### Laravel Eloquent Mastery
 
-Topics include:
-
-- Database → SQL → ORM → Eloquent
-- Retrieving Data
-- Advanced Filtering
-- Ordering & Limiting
-- Pagination
-- Eloquent Query Patterns
-- Model vs Eloquent
-- Model vs Collection
-- `all()` vs `get()`
-- `first()` vs `find()`
-- `latest()` vs `orderBy()`
-- `paginate()` vs `cursorPaginate()`
-- `value()` vs `pluck()`
-- `exists()` vs `count()`
+I'm continuously improving my Laravel and database expertise through practical projects, technical writing and structured learning.
 
 🔗 **[Laravel Eloquent Mastery](https://github.com/emonislam-dev/laravel-eloquent-mastery)**
+
+I also share Laravel development knowledge and practical lessons on LinkedIn.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 Laravel 13
-- 🏢 Multi-Tenant SaaS
-- 🔗 REST API Development
-- 🗄️ Database & Query Optimization
-- ⚡ Application Performance
-- 🔐 Authentication & Authorization
-- 🐳 Docker
-- 🔴 Redis
-- 🔄 CI/CD
-- ☁️ AWS
+- Laravel 13
+- Advanced Eloquent
+- REST API Development
+- Multi-Tenant SaaS
+- Database & Query Optimization
+- Application Performance
+- Authentication & Authorization
+- Redis
+- Docker
+- CI/CD
+- AWS
+
+> Current Focus represents technologies and areas I am actively learning and improving.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emonislam-dev&show_icons=true&hide_border=true" alt="SM Emon Islam GitHub Stats" />
-</p>
+I focus on building practical Laravel projects, improving backend engineering skills, and maintaining consistent development activity.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislam-dev&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=emonislam-dev&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=emonislam-dev&hide_border=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [SM Emon Islam](https://www.linkedin.com/in/emonislam-dev)
+- 💼 **LinkedIn:** [SM Emon Islam](https://www.linkedin.com/in/sm-emon-islam)
 - 🐙 **GitHub:** [emonislam-dev](https://github.com/emonislam-dev)
 - 🧩 **LeetCode:** [smemonislam6](https://leetcode.com/u/smemonislam6/)
 - 📧 **Email:** [smemonislam6@gmail.com](mailto:smemonislam6@gmail.com)
